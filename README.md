@@ -15,7 +15,7 @@
 Currently learning Python
 <p align="center">
     <a href="https://discord.gg/CjaKz5v6TS">Discord Comunity</a>
-    <a href="https://discord.gg/CjaKz5v6TS">Discord Comunity</a>
+    <a href="https://discord.gg/CjaKz5v6TS">Personal Website</a>
 
   <p align="center">
 <a href="https://github.com/0draxx" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
