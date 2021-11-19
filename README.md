@@ -7,7 +7,7 @@
 <img src="https://profile-counter.glitch.me/0draxx/count.svg">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/720765270217457684.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/720765270217457684.png"/>
 </p>
 <p align="center">
 Currently learning Python
