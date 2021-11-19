@@ -7,7 +7,7 @@
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 </p>
 <p align="center">
-    draxx
+    Visitors:
 <p align="center">  
 <img src="https://profile-counter.glitch.me/0draxx/count.svg">
 </p>
