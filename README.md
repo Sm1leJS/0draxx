@@ -14,5 +14,5 @@
 <p align="center">
 Currently learning Python
 <p align="center">
-    <a href="https://discord.gg/CjaKz5v6TS">Discord Server</a>
+    <a href="https://discord.gg/CjaKz5v6TS">https://cdn.discordapp.com/emojis/852906801460019200.png?size=96</a>
 
