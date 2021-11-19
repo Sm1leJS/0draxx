@@ -4,7 +4,7 @@
 <p align="center">
     draxx
 <p align="center">  
-<img src="https://cdn.discordapp.com/avatars/720765270217457684/a83b710a50084f54647b74899186b76e.png?size=1024">
+<img src="https://profile-counter.glitch.me/0draxx/count.svg">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
