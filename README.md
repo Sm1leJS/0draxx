@@ -10,7 +10,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript
+Currently learning Python
 <p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+    <a href="https://discord.gg/CjaKz5v6TS">Discord Server</a>
 
