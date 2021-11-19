@@ -14,5 +14,5 @@
 <p align="center">
 Currently learning Python
 <p align="center">
-    <a href="https://discord.gg/CjaKz5v6TS">fab fa-discord</a>
+    <a href="https://discord.gg/CjaKz5v6TS">https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png</a>
 
