@@ -20,6 +20,3 @@ Learning JS HTML CSS
   <p align="center">
 <a href="https://github.com/Sm1leJS" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
-    <b>Languages</b>
-      <br>
-    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a>
