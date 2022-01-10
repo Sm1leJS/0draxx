@@ -20,4 +20,4 @@ Learning JS HTML CSS
   <p align="center">
 <a href="https://github.com/Sm1leJS" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
     
-  [![Alt text](https://img.youtube.com/vi/5qap5aO4i9A/0.jpg)](https://www.youtube.com/watch?v=_eqQbI9PMWM)
+  [![Alt text](https://img.youtube.com/vi/C2DrMynAU4o0.jpg)](https://www.youtube.com/watch?v=_eqQbI9PMWM)
