@@ -9,7 +9,7 @@
 <p align="center">
     Visitors:
 <p align="center">  
-<img src="https://profile-counter.glitch.me/0draxx/count.svg">
+<img src="https://profile-counter.glitch.me/Sm1leJS/count.svg">
 </p>
 <p align="center">
 Learning JS HTML CSS 
