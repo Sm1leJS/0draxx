@@ -12,7 +12,7 @@
 <img src="https://profile-counter.glitch.me/0draxx/count.svg">
 </p>
 <p align="center">
-Currently learning Python
+Learning JS HTML CSS 
 <p align="center">
     <a href="https://discord.gg/CjaKz5v6TS">Discord Comunity</a>
     <a href="https://discord.gg/CjaKz5v6TS">| Personal Website</a>
