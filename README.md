@@ -4,7 +4,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/681564463002157081.png"/>
 </p>
 <p align="center">  
-<img src="https://tenor.com/view/pokemon-link-ethereum-poke-tron-gif-17774971">
+<img src="https://cdn.discordapp.com/attachments/842750459378008065/930200041174478848/pokemon-pokemon-diamond.gif">
 </p>
 <p align="center">
     Visitors:
